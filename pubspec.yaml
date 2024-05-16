@@ -11,7 +11,7 @@ dependencies:
   dart_console: 
     git: 
       url: https://github.com/Linkadi98/dart_console.git
-      ref: dart_console-1.1
+      ref: dart_console-1.3
 
   meta: ^1.8.0
   tint: ^2.0.0
